@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# nPChat 在线聊天工具
+# nPChat
 
 from tkinter.scrolledtext import *  # 滚动条模块
 from tkinter.filedialog import *  # 打开文件窗口模块
